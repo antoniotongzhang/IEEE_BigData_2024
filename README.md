@@ -27,6 +27,12 @@ perf stat -e power/energy-pkg/
 ```
 - **Modeling**: Scripts used for training and evaluating machine learning models, employing linear and non-linear regression techniques.
 
+**Note that**: Some scripts has been developed with the assistance of ChatGPT. The tool was used for tasks such as:
+
+- Code generation and refactoring
+- Debugging and troubleshooting specific sections
+- Providing suggestions for improving algorithm efficiency
+
 ## Setup and Installation
 
 Some addtional tools/packages are required before running the scripts under **Application**, such as Firefox, Stress-ng, xdotool, etc.
