@@ -1,6 +1,6 @@
 ## Overview
 
-This repository supports the research presented in our paper titled "Exploring Models for Energy Consumption Estimation in Diverse Application Scenarios," submitted to CASCON. Our study explores the relationships between system behavior and energy consumption, employing various machine learning algorithms to predict energy usage across different applications. This research aims to enhance the accuracy of energy estimation in software systems by utilizing performance counters and system calls.
+This repository supports the research presented in our paper titled "Assessing Predictive Models for Energy Consumption Across Varied Software Environments" submitted to IEEE BigData 2024 Workshop on Handling Resource constraints for/using Bigdata and AI(Workshop on Handling Resource constraints for/using Bigdata and AI). Our study explores the relationships between system behavior and energy consumption, employing various machine learning algorithms to predict energy usage across different applications. This research aims to enhance the accuracy of energy estimation in software systems by utilizing performance counters and system calls.
 
 ### Datasets
 
